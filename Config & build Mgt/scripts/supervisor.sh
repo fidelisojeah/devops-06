@@ -1,5 +1,7 @@
 #!/bin/bash -eux
 
+##new comment
+
 # Install supervisor
 echo 'installing supervisor'
 sudo apt-get install -y supervisor
